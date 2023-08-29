@@ -21,6 +21,7 @@ Ladijska Hidromehanika je predmet na 2.stopnji Pomorstva. Vsebine so vezane na u
 
 ## Manevrabilnost plovila
 
-- IMO zahteve in testi za manevrabilnost ladje
-- osnovni matematični model manevriranja ladje.
+- IMO zahteve in testi za manevrabilnost ladje,
+- osnovni matematični model manevriranja ladje - Nomoto model,
+- določitev manevrabilne stabilnosti ladje.
 
